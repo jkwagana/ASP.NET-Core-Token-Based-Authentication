@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "TwitterAPIs.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginVm",
+        "Type": "HomeAPIs.Data.ViewModels.LoginVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.AuthenticationController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Authentication/refresh-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenRequestVM",
+        "Type": "HomeAPIs.Data.ViewModels.TokenRequestVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/register-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerVM",
+        "Type": "HomeAPIs.Data.ViewModels.RegisterVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.HomeController",
+    "Method": "GetManager",
+    "RelativePath": "api/Home/manager",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.HomeController",
+    "Method": "GetStudents",
+    "RelativePath": "api/Home/student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.ManagementController",
+    "Method": "Get",
+    "RelativePath": "api/Management",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwitterAPIs.Controllers.StudentsController",
+    "Method": "Get",
+    "RelativePath": "api/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

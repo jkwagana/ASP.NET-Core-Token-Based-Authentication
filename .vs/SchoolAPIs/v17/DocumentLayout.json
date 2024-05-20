@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\SchoolAPIs.csproj|c:\\users\\john\\source\\repos\\twitterapis\\twitterapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\SchoolAPIs.csproj|solutionrelative:twitterapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\twitterapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|solutionrelative:twitterapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|c:\\users\\john\\source\\repos\\twitterapis\\twitterapis\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|solutionrelative:twitterapis\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|c:\\users\\john\\source\\repos\\twitterapis\\twitterapis\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|solutionrelative:twitterapis\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|c:\\users\\john\\source\\repos\\twitterapis\\twitterapis\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|solutionrelative:twitterapis\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\twitterapis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED23D85-925D-45DC-9850-45F26E5C3136}|TwitterAPIs\\HomeAPIs.csproj|solutionrelative:twitterapis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TwitterAPIs\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:47:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\ManagementController.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Controllers\\ManagementController.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\ManagementController.cs",
+              "RelativeToolTip": "TwitterAPIs\\Controllers\\ManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:31:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "TwitterAPIs\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:31:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "TwitterAPIs\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAL4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:41:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TwitterAPIs\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:28:06.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TwitterAPIs\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\JOHN\\source\\repos\\TwitterAPIs\\TwitterAPIs\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TwitterAPIs\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:40:38.358Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
